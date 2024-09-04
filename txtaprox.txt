@@ -4,12 +4,13 @@ Título: ¡Descubre Londres desde el corazón de Paddington!
 Subtítulo: Hospédate en el Norfolk Inn Paddington y disfruta de una estancia cómoda y conveniente.
 Imagen destacada: Una foto del exterior del hotel, de una habitación acogedora o de una vista de la zona.
 Llamada a la acción: Reserva ahora y aprovecha nuestras mejores ofertas.
+
 Breve descripción del hotel:
-Ubicación estratégica cerca de la estación de Paddington y el Hyde Park.
-Ambiente acogedor y clásico.
-Habitaciones cómodas y bien equipadas.
-Desayuno incluido.
-Excelente relación calidad-precio.
+	Ubicación estratégica cerca de la estación de Paddington y el Hyde Park.
+	Ambiente acogedor y clásico.
+	Habitaciones cómodas y bien equipadas.
+	Desayuno incluido.
+	Excelente relación calidad-precio.
 
 Sección Perfil
 

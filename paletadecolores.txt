@@ -1,0 +1,21 @@
+Verdes:
+
+Verde oliva: #556B2F (Un verde oscuro y terroso, perfecto para crear un ambiente acogedor.)
+Verde menta: #A9D08F (Un verde suave y refrescante, ideal para detalles y acentos.)
+Verde bosque: #22543D (Un verde oscuro y profundo, que evoca la naturaleza.)
+Marrones:
+
+Marrón chocolate: #4B3828 (Un marrón cálido y acogedor, ideal para crear contraste.)
+Marrón claro: #D2B48C (Un marrón suave y neutro, perfecto para fondos.)
+Marrón tierra: #8B4513 (Un marrón intenso y terroso, que evoca la tierra.)
+Beige y tonos tierra:
+
+Beige claro: #F2F0E6 (Un beige suave y luminoso, ideal para fondos.)
+Beige oscuro: #C8B5A1 (Un beige cálido y acogedor, perfecto para elementos de diseño.)
+Ocre: #CC7722 (Un tono cálido y terroso, que aporta energía a la paleta.)
+
+Combinaciones sugeridas:
+
+Clásica: #F2F0E6 (beige claro) como fondo, #556B2F (verde oliva) para los títulos y #D2B48C (marrón claro) para los elementos secundarios.
+Moderna: #A9D08F (verde menta) como fondo, #22543D (verde bosque) para los títulos y #CC7722 (ocre) para los acentos.
+Cálida: #C8B5A1 (beige oscuro) como fondo, #4B3828 (marrón chocolate) para los títulos y #8B4513 (marrón tierra) para los elementos secundarios.
