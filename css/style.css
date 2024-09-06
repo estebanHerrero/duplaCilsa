@@ -1,6 +1,13 @@
 body {
   background-color: #FEFAE0;
-  max-width: 1140ox;
+  max-width: 1140px;
+  margin: 0 auto;
+}
+header {
+  background-color: #B99470;
+  height: 80px;
+  margin-bottom: 20px;
+  margin-top: 10px;
 }
 .navbar {
   margin: 0 auto;
@@ -11,18 +18,25 @@ body {
 .verde-bosque {
   color: #A6B37D;
 }
+.img-fluid {
+  border: none;
+}
 .logo {
   text-decoration: none;
   font-size: 2em;
 }
 .navbar-nav .nav-item a {
-  color: #7a7a7a; 
+  color: #FEFAE0;
+  font-size: 1rem;
 }
 .navbar-nav .nav-item a:hover {
   color: #C0C78C; 
 }
-.container {
-  max-width: 1140px;
+section {
+  width: 1140px;
+}
+.parrafoexp {
+  font-size: .80rem;
 }
 .text-box {
   background-color: rgba(255, 255, 255, 0.37);
@@ -113,5 +127,8 @@ li {
 }
 .menufooter a:hover {
   color: #22543D;
+}
+#experiencia, #per, #nuestroshoteles {
+  background-color: #C0C78C;
 }
 
