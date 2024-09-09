@@ -2,6 +2,7 @@ body {
   background-color: #FEFAE0;
   max-width: 1140px;
   margin: 0 auto;
+  font-family: 'Montserrat', sans-serif;
 }
 header {
   background-color: #B99470;
@@ -23,7 +24,8 @@ header {
 }
 .logo {
   text-decoration: none;
-  font-size: 2em;
+  font-size: 1.75rem;
+  font-weight: 600;
 }
 .navbar-nav .nav-item a {
   color: #FEFAE0;
@@ -31,9 +33,6 @@ header {
 }
 .navbar-nav .nav-item a:hover {
   color: #C0C78C; 
-}
-section {
-  width: 1140px;
 }
 .parrafoexp {
   font-size: .80rem;
@@ -100,9 +99,17 @@ section {
   font-size: 2rem;
   color: #333;
 }
+.interior, .row{
+  overflow: hidden;
+}
+.interior img:hover {
+  transform: scale(1.04);
+  transition: transform 0.3s ease-in-out;
+  overflow: hidden; 
+}
 h6 {
   font-size: 1.25rem;
-  font-weight: bold;
+  font-weight: 400;
 }
 li {
   font-size: .85rem;
@@ -113,6 +120,9 @@ li {
   margin: 0 auto;
   width: 1140px;
   padding-top: 40px;
+}
+.img-fuild, .grises:hover {
+  filter: grayscale(0);
 }
 .txt-footer {
   font-size: .80rem;
@@ -128,7 +138,24 @@ li {
 .menufooter a:hover {
   color: #22543D;
 }
-#experiencia, #per, #nuestroshoteles {
+#experiencia, #per, #nuestroshoteles, #servicios {
   background-color: #C0C78C;
+}
+.parrafoexp {
+  width: 900px;
+  margin: 0 auto;
+}
+.form-control {
+  border-color: #B99470;
+}
+.btn-primary {
+  background-color: #C0C78C;
+  border-color: #C0C78C;
+  padding: 16px 40px;
+  font-size: 1.25rem;
+}
+.btn-primary:hover {
+  background-color: #A6B37D;
+  border-color: #A6B37D;
 }
 
